@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+  cout<<"Name:Deepak";
+  cout<<"Roll.No:25A31A05IJ";
+  cout<<"Branch:CSE";
+  cout<<"Section:E";
+}
